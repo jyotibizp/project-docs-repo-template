@@ -1,2 +1,3 @@
-# project-docs-repo-template
-project-docs-repo-template
+# Project Documentation Template
+
+Organized by stakeholder responsibilities.
